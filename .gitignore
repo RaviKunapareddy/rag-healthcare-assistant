@@ -1,0 +1,19 @@
+# macOS system files
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables and secrets
+.env
+
+# Data and model artifacts (optional: comment out if you want to keep these in repo)
+data/
+raw_data/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
