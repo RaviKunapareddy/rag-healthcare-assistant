@@ -1,5 +1,5 @@
 
-# 🩺 Real-World Healthcare RAG Assistant: Retrieval, Rerank, Respond
+# Healthcare RAG Assistant: Retrieval, Rerank, Respond
 
 In a world flooded with healthcare misinformation, finding trusted medical answers isn't just hard — it's risky.  
 This project builds a **Retrieval-Augmented Generation (RAG)** healthcare assistant that retrieves trusted content from the **MedQuAD** dataset and generates human-like responses with **Google's Gemini LLM**, ensuring relevance, transparency, and source attribution at every step.
